@@ -1,7 +1,7 @@
-# 이주암입니다
+# I'm Jooam Lee
 
-성실함은 어려우면서도 쉬운 소양입니다.
+Learn slowly but steadily
 
-작은 시간이라도 끊임없이 투자한다면 결국 배움은 체화된다고 믿습니다.
+Interested in Front-end and Optimization
 
-쉬우면서도 어려운 과정을 반복하는 삶을 살기 위해 노력 중입니다.
+Not good yet but will be 
