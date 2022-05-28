@@ -1,8 +1,14 @@
-# I'm Jooam Lee
+# 🏆Introduction
 
-### Learn slowly but steadily
+#### I'm Jooam Lee
 
-### Interested in Front-end and Optimization
+#### Learn slowly but steadily
 
-### Not good at skills yet but will be 
+#### Interested in Front-end and Optimization
 
+#### Not good at skills yet but will be 
+
+# 🔨 Can do
+### - Javascript
+### - React
+### - HTML, CSS
