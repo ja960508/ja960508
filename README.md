@@ -9,6 +9,6 @@
 #### Not good at skills yet but will be 
 
 # 🔨 Can do
-### - Javascript
+### - Javascript, Typescript
 ### - React
 ### - HTML, CSS
